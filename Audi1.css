@@ -1,0 +1,36 @@
+.nn{
+    margin: 5px;
+}
+
+.nn button{
+    margin: 5px;
+}
+
+.hh{
+    color: gold;
+    margin-bottom: 150px;
+}
+
+.uu{
+    position: relative;
+    bottom: 1010px;
+    left: 500px;
+    background-color: gold;
+    color: black;
+}
+
+.uu:hover{
+    color: white;
+}
+
+.mk {
+    position: relative;
+    bottom: 1080px;
+    background-color: gold;
+    color: black;
+    width: 300px;
+    border-radius: 10px;
+    height: auto; 
+    padding: 10px;
+    text-align: center; 
+}

@@ -1,0 +1,81 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.navall {
+    display: flex;
+    justify-content: center; 
+    background-color: black;
+    position: fixed;
+    top: 0;
+    left: 0; 
+    width: 100%; 
+}
+
+
+.navall button {
+    margin: 2px;
+    padding: 10px;
+    width: 120px;
+    background-color: gold;
+    color: black;
+    border-radius: 0;
+    border: none;
+    cursor: pointer;
+}
+
+.navall button:hover {
+    color: white;
+}
+
+.days{
+    color: white;
+    position: relative;
+    bottom:-10px;
+    right: 320px;
+} 
+
+.days button{
+    margin: 10px;
+}
+
+.mm input{
+    background-color: white;
+    position: relative;
+    top: 30px;
+    width : 800px;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.con {
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    bottom: 60px;
+    justify-content: space-between;
+    margin-top: 140px;
+}
+
+.bb {
+    display: block;
+}
+
+.bb h5{
+    color: gold;
+}
+
+
+.con img{
+    width: 110px;
+    height: 110px;
+    border-radius: 5px;
+   
+}
+.ccon button{
+    margin: 40px;
+}

@@ -1,0 +1,17 @@
+.mkk{
+    background-color: gold;
+    border-radius: 0px;
+    width: 500px;
+    height: 500px;
+}
+
+.mkk button{
+    background-color: black;
+    color: gold;
+    border-radius: 10px;
+    margin: 5px;
+    position: relative;
+    bottom: 40px;
+    left: 20px;
+   
+}
